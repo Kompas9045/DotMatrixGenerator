@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lattice", "lattice.csproj", "{63996636-B3C7-4FBD-AA1A-AA5461AF856E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63996636-B3C7-4FBD-AA1A-AA5461AF856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63996636-B3C7-4FBD-AA1A-AA5461AF856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63996636-B3C7-4FBD-AA1A-AA5461AF856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63996636-B3C7-4FBD-AA1A-AA5461AF856E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {946E44C7-6613-4E20-AE97-84CF2FE0EB0C}
+	EndGlobalSection
+EndGlobal
